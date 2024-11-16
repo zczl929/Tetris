@@ -1,0 +1,2 @@
+Tetris Autoplayer 
+This project implements a Tetris Autoplayer that leverages a heuristic-based machine learning algorithm to optimize gameplay and maximize scores. The core functionality revolves around evaluating and scoring potential block placements to minimize holes, reduce bumpiness, and clear rows efficiently. The autoplayer dynamically adjusts weights for these heuristics to enhance decision-making.
